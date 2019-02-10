@@ -1,0 +1,1 @@
+# Simple porter stemmer bahasa indonesia
